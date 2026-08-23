@@ -155,3 +155,33 @@ Experimental study of **thyristor choppers**, focusing on the **Jones chopper** 
     </tr>
   </tbody>
 </table>
+<p>
+  Thyristor choppers are widely used for power conversion and control,
+  particularly in high-power applications such as <strong>railway
+  traction</strong>. Since thyristors have controlled turn-on but cannot be
+  turned off through their gate, commutation techniques are required to
+  force the thyristor current to zero. The <strong>Jones chopper</strong> is
+  a classical example of a <strong>forced-commutation thyristor chopper</strong>,
+  using a commutation circuit to turn off the conducting thyristor.
+</p>
+
+<p>
+  The following figures present the <strong>Jones converter</strong> results,
+  showing the voltage and current waveforms for different inductance values.
+</p>
+
+<div class="waveform-results">
+
+  <figure>
+    <img src="image105.png" alt="Voltage and current waveforms">
+  </figure>
+
+  <figure>
+    <img src="image114.png" alt="Voltage and current waveforms">
+  </figure>
+
+  <figure>
+    <img src="image119.jpg" alt="Voltage and current waveforms">
+  </figure>
+
+</div>
