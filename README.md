@@ -34,12 +34,21 @@ Experimental study of **thyristor choppers**, focusing on the **Jones chopper** 
 <h4>Jones Converter</h4>
 <p align="center">
   <img src="jones_converter_1.png"
-       alt="Jones Converter"
        width="700">
 </p>
 <p align="center">
   <img src="jones_converter_2.png"
-       alt="Jones Converter Second Configuration"
+       width="700">
+</p>
+<h3>Simulation Result</h3>
+<p align="center">
+  <img src="jonesmontage.png"
+       alt="Simulink Jones Converter Circuit Configuration"
+       width="700">
+</p>
+<p align="center">
+  <img src="jonesres.png"
+       alt="Rectified voltage and current Waveforms of Jones converter"
        width="700">
 </p>
 <h3>Experimental Setup – Jones Chopper</h3>
