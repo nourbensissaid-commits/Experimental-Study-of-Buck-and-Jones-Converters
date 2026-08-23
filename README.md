@@ -37,8 +37,6 @@ Experimental study of **thyristor choppers**, focusing on the **Jones chopper** 
        alt="Jones Converter"
        width="700">
 </p>
-
-<h4>Jones Converter - Second Configuration</h4>
 <p align="center">
   <img src="jones_converter_2.png"
        alt="Jones Converter Second Configuration"
