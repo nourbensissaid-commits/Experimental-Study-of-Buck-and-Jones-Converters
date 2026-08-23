@@ -95,5 +95,22 @@ Experimental study of **thyristor choppers**, focusing on the **Jones chopper** 
       </td>
       <td>Provides inductive energy storage and allows the study of current ripple.</td>
     </tr>
+    <tr>
+  <td><strong>MOSFET / IGBT & Ultrafast Diode</strong></td>
+  <td>
+    <img src="image34.jpg" alt="MOSFET / IGBT and Ultrafast Diode" width="200">
+  </td>
+  <td>
+    Power semiconductor devices used for controlled switching and fast
+    current conduction during commutation.
+  </td>
+</tr>
+        <tr>
+      <td><strong>Capacitor</strong></td>
+      <td>
+        <img src="image39.jpg" alt="Capacitor" width="200">
+      </td>
+      <td>Used for energy storage and voltage smoothing in the chopper circuit.</td>
+    </tr>
   </tbody>
 </table>
