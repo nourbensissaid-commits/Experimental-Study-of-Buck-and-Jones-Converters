@@ -181,7 +181,7 @@ Experimental study of **thyristor choppers**, focusing on the **Jones chopper** 
   </figure>
 
   <figure>
-    <img src="image119.jpg" alt="Voltage and current waveforms">
+    <img src="image119.png" alt="Voltage and current waveforms">
   </figure>
 
 </div>
