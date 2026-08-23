@@ -26,7 +26,7 @@ Experimental study of **thyristor choppers**, focusing on the **Jones chopper** 
 </ul>
 <h4>Buck Converter</h4>
 <p align="center">
-  <img src="buck_converter_1.png"
+  <img src="Buck_converter.png"
        alt="Buck Converter"
        width="700">
 </p>
