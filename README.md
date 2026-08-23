@@ -98,7 +98,7 @@ Experimental study of **thyristor choppers**, focusing on the **Jones chopper** 
     <tr>
   <td><strong>MOSFET / IGBT & Ultrafast Diode</strong></td>
   <td>
-    <img src="image34.jpg" alt="MOSFET / IGBT and Ultrafast Diode" width="200">
+    <img src="image34.png" alt="MOSFET / IGBT and Ultrafast Diode" width="200">
   </td>
   <td>
     Power semiconductor devices used for controlled switching and fast
@@ -111,6 +111,47 @@ Experimental study of **thyristor choppers**, focusing on the **Jones chopper** 
         <img src="image39.jpg" alt="Capacitor" width="200">
       </td>
       <td>Used for energy storage and voltage smoothing in the chopper circuit.</td>
+    </tr>
+  </tbody>
+</table>
+<h3>Load Voltage and Current Waveforms</h3>
+
+<p>
+  The following waveforms show the <strong>load voltage and current</strong>
+  of the Buck converter for different values of inductance.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Inductance Case</th>
+      <th>Waveforms</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Case 1</strong></td>
+      <td>
+        <img src="image17.jpg" width="600">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Case 2</strong></td>
+      <td>
+        <img src="image25.jpg"width="600">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Case 3</strong></td>
+      <td>
+        <img src="image31.jpg" width="600">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Case 4</strong></td>
+      <td>
+        <img src="image44.jpg" width="600">
+      </td>
     </tr>
   </tbody>
 </table>
