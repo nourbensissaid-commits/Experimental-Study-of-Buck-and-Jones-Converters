@@ -9,7 +9,7 @@ Experimental study of **thyristor choppers**, focusing on the **Jones chopper** 
 </ul>
 <h3>Theoretical Background</h3>
 
-<h4>1. Buck Converter and Jones Converters </h4>
+<h3>1. Buck Converter and Jones Converters </h3>
 
 <ul>
   <li>
@@ -42,3 +42,58 @@ Experimental study of **thyristor choppers**, focusing on the **Jones chopper** 
        alt="Jones Converter Second Configuration"
        width="700">
 </p>
+<h3>Experimental Setup – Jones Chopper</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Equipment</th>
+      <th>Image</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Jones Chopper Assembly</strong></td>
+      <td>
+        <img src="image93.jpg" alt="Jones Chopper Assembly" width="200">
+      </td>
+      <td>Thyristor-based chopper used for controlled DC power conversion.</td>
+    </tr>
+    <tr>
+      <td><strong>Oscilloscope</strong></td>
+      <td>
+        <img src="image92.jpg" alt="Oscilloscope" width="200">
+      </td>
+      <td>Used to observe and analyze voltage and current waveforms.</td>
+    </tr>
+    <tr>
+      <td><strong>Voltmeter / Ammeter</strong></td>
+      <td>
+        <img src="image94.jpg" alt="Voltmeter / Ammeter" width="200">
+      </td>
+      <td>Used to measure the voltage and current in the circuit.</td>
+    </tr>
+    <tr>
+      <td><strong>Three-Phase Switch</strong></td>
+      <td>
+        <img src="image115.jpg" alt="Three-Phase Switch" width="200">
+      </td>
+      <td>Used to connect and disconnect the three-phase power supply.</td>
+    </tr>
+    <tr>
+      <td><strong>Load Resistor</strong></td>
+      <td>
+        <img src="image108.jpg" alt="Load Resistor" width="200">
+      </td>
+      <td>Provides the resistive component of the experimental load.</td>
+    </tr>
+    <tr>
+      <td><strong>Load Inductor</strong></td>
+      <td>
+        <img src="image100.jpg" alt="Load Inductor" width="200">
+      </td>
+      <td>Provides inductive energy storage and allows the study of current ripple.</td>
+    </tr>
+  </tbody>
+</table>
